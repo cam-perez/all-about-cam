@@ -20,7 +20,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"⚡  I'm passionate about codeing and human languages",
+		"⚡  I'm passionate about coding and human languages",
 		"🔭 I’m currently studying a Master's in Business Analytics",
 		"🌱 I’m currently learning Python, R, C++ and Java",
 		"👯 I’m looking to collaborate on Python/finance related projects",
