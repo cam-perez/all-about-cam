@@ -25,7 +25,7 @@ func GetBio() Bio {
 		"🌱 I’m currently learning Python, R, C++ and Java",
 		"👯 I’m looking to collaborate on Python/finance related projects",
 		"🤔 I’m looking for help with anything related to what I am currently learning 😅",
-		"💬 Ask me about finance ans statistical analysis",
+		"💬 Ask me about finance and statistical analysis",
 		"📫 How to reach me at http://linkedin.com/in/cam-perez,
 	}
 }
